@@ -1,0 +1,1 @@
+﻿This repo contains excercises 15.10 and 15.12
