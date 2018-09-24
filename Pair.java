@@ -14,4 +14,8 @@ public class Pair {
 	public int getY () {
 		return yCoord;
 	}
+	
+	public String toString () {
+	    return "" + xCoord + "," + yCoord;
+	}
 }
